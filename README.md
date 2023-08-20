@@ -12,7 +12,7 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
 
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow)](https://skillicons.dev)
 
-[![Software Skills](https://skillicons.dev/icons?i=vscode,github,ps,ai)](https://skillicons.dev)
+[![Software Skills](https://skillicons.dev/icons?i=vscode,github,ps,ai,blender)](https://skillicons.dev)
 
 ### Any cool stuff you're working on?
 

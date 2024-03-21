@@ -3,9 +3,14 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
 
 • **Founder of [Diamond Digital Development](https://diamonddigital.dev/)**, a start-up focused mainly on **Discord Bots**, **NPM packages**, and **AI**.
 
-• **18-year old college student** currently studying **IT**.
+• **18-year old college student** currently studying:
+  - **IT Systems**
+  - **Relational Databases & Data Modelling**
+  - **Mobile & Web Development**
+  - **Social Media in Business**
+  - **Cyber Security**
 
-• I also **play the piano** and **produce EDM using Logic Pro X** in my spare time. ([Spotify](https://open.spotify.com/track/4CfNBS4KKZg3uhhOjVKWH1))
+• I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/track/4CfNBS4KKZg3uhhOjVKWH1))
 
 ### What do I specialise in?
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
@@ -20,6 +25,7 @@ Although that statement is completely up for your own judgement, here's some stu
 
 - **[Voxel](https://diamonddigital.dev/voxel-beta)** - Multi-purpose Discord Bot with an ever-growing number of features. (Now in beta-testing!)
 - **[EcoBot](https://dsc.gg/discord-ecobot)** - Discord economy bot that allows you to create server shops using roles as items.
+- **[DiamondLLM](https://chat.diamonddigital.dev/)** - A conversational AI chatbot fine-tuned from Meta's LLaMA 2 with quality close to that of ChatGPT.
 - **[Codeshare](https://codeshare.diamonddigital.dev/)** - A beautifully simplistic pastebin alternative, heavily focussed on ease-of-use and mobile-friendliness.
 - **[NPM Packages](https://www.npmjs.com/~willtda)** - There's quite a few, take a look!
 

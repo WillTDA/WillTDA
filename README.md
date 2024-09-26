@@ -13,11 +13,17 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
 • I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/track/19PvsZyqiaKpKCZ1O8RSK1?si=f99104ca13c64f66))
 
 ### What do I specialise in?
+#### Frontend Development
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,electron)](https://skillicons.dev)
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow)](https://skillicons.dev)
+#### Backend Development
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow,cloudflare,discordjs)](https://skillicons.dev)
 
-[![Software Skills](https://skillicons.dev/icons?i=vscode,github,ps,ai,blender)](https://skillicons.dev)
+#### Software
+[![Software Skills](https://skillicons.dev/icons?i=vscode,github,npm,ps,ai,blender,ableton)](https://skillicons.dev)
+
+#### Operating Systems
+[![OS Skills](https://skillicons.dev/icons?i=windows,ubuntu,apple)](https://skillicons.dev)
 
 ### Any cool stuff you're working on?
 

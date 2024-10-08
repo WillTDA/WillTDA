@@ -1,7 +1,7 @@
 # Hey there, I'm WillTDA! 👋
 bri'ish fullstack dev who likes programming a bit too much, just like every single year 9 in existence
 
-• **Founder of [Diamond Digital Development](https://diamonddigital.dev/)**, a company focused mainly on **Discord Bots**, **NPM packages**, and **AI**.
+• **Founder of [Diamond Digital Development](https://diamonddigital.dev/)**, a platform focused mainly on **Discord Bots**, **NPM packages**, and **AI**.
 
 • **18-year old college student** currently studying:
   - **IT Systems**

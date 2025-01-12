@@ -3,7 +3,7 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
 
 • **Founder of [Diamond Digital Development](https://diamonddigital.dev/)**, a platform focused mainly on **Discord Bots**, **NPM packages**, and **AI**.
 
-• **18-year old college student** currently studying:
+• **19-year old college student** currently studying:
   - **IT Systems**
   - **Relational Databases & Data Modelling**
   - **Mobile & Web Development**

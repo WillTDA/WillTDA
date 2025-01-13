@@ -4,12 +4,12 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
 • **Founder of [Diamond Digital Development](https://diamonddigital.dev/)**, a platform focused mainly on **Discord Bots**, **NPM packages**, and **AI**.
 
 • **19-year old college student** currently studying:
-  - **IT Systems & Service Delivery**
-  - **Relational Databases & Data Modelling**
-  - **Mobile & Web Development**
-  - **Social Media in Business**
   - **Cyber Security**
   - **IoT**
+  - **IT Systems & Service Delivery**
+  - **Mobile & Web Development**
+  - **Relational Databases & Data Modelling**
+  - **Social Media in Business**
   - **Software Testing**
 
 • I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/playlist/7Amsod9O69ZLCNzVnHprad))
@@ -53,3 +53,5 @@ If you wanna see what I'm up to outside of my programming lifestyle, my Instagra
 • **[Join my Discord](https://diamonddigital.dev/discord)**
 
 • **[Follow me on Instagram](https://instagram.com/willtdaofficial)**
+• **[Connect with me on LinkedIn](https://www.linkedin.com/in/will-michael-knowles)**
+

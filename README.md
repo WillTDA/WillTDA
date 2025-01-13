@@ -10,7 +10,7 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
   - **Social Media in Business**
   - **Cyber Security**
 
-• I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/album/2c9XgGprQS1xeh6c5RFH9L?si=OfuaYWacTJypfSvPRQnd9g))
+• I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/playlist/7Amsod9O69ZLCNzVnHprad))
 
 ### What do I specialise in?
 #### Frontend Development

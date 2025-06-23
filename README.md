@@ -51,21 +51,13 @@ Although that statement is completely up for your own judgement, here's some stu
 
 I'm not super active on every platform, but here are the best places to connect with me:
 
-* **Discord** – This is my main hangout. I'm most active here, especially in my server.
-  
-  → [**Join my Discord**](https://diamonddigital.dev/discord)
+- **[Discord](https://diamonddigital.dev/discord)** – This is my main hangout. I'm most active here, especially in my server.
 
-* **Instagram** – For a look at what I'm up to outside of programming and tech.
-  
-  → [**Follow me on Instagram**](https://instagram.com/willtdaofficial)
+- **[Instagram](https://instagram.com/willtdaofficial)** – For a look at what I'm up to outside of programming and tech.
 
-* **LinkedIn** – If you're here for the professional side of things.
-  
-  → [**Connect on LinkedIn**](https://www.linkedin.com/in/will-michael-knowles)
+- **[LinkedIn](https://www.linkedin.com/in/will-michael-knowles)** – If you're here for the professional side of things.
 
-* **Linktree** – For everything else, including projects, socials, and more.
-  
-  → [**Check out my Linktree**](https://linktr.ee/willtda)
+- **[Linktree](https://linktr.ee/willtda)** – For everything else, including projects, socials, and more.
   
 ### My PC Specs
 

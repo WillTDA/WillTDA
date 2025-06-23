@@ -1,9 +1,15 @@
-# Hey there, I'm WillTDA! 👋
-bri'ish fullstack dev who likes programming a bit too much, just like every single year 9 in existence
+# Hi! I'm WillTDA. 👋
+Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willknowl.es/))
 
-• **Founder of [Diamond Digital Development](https://diamonddigital.dev/)**, a platform focused mainly on **Discord Bots**, **NPM packages**, and **AI**.
+• I am a 19 year-old EDM Producer and Full-stack Developer from the North East of the UK.
 
-• **19-year old college student** currently studying:
+• I cover quite a lot of electronic genres, mainly the bass-heavy stuff. Some people refer to it as rhythm game music if that helps.
+
+• I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/playlist/7Amsod9O69ZLCNzVnHprad))
+
+• I run my own platform, **[Diamond Digital Development](https://diamonddigital.dev/)**, where my team and I build and deploy AI models, JavaScript libraries, and Discord bots.
+
+• I am a former college student, with a **Level 3 Extended National Diploma in Information Technology** from **Newcastle College**, having studied:
   - **Cyber Security**
   - **IoT**
   - **IT Systems & Service Delivery**
@@ -11,8 +17,6 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
   - **Relational Databases & Data Modelling**
   - **Social Media in Business**
   - **Software Testing**
-
-• I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/playlist/7Amsod9O69ZLCNzVnHprad))
 
 ### What do I specialise in?
 #### Frontend Development
@@ -31,12 +35,11 @@ bri'ish fullstack dev who likes programming a bit too much, just like every sing
 
 Although that statement is completely up for your own judgement, here's some stuff I've put a significant part of my life into:
 
-- **[Voxel](https://diamonddigital.dev/voxel-beta)** - Multi-purpose Discord Bot with an ever-growing number of features.
-- **[EcoBot](https://dsc.gg/discord-ecobot)** - Discord economy bot that allows you to create server shops using roles as items.
 - **[DiamondLLM](https://chat.diamonddigital.dev/)** - A conversational AI chatbot fine-tuned from Meta's LLaMA 3 with quality close to that of GPT-4.
 - **[Codeshare](https://codeshare.diamonddigital.dev/)** - A beautifully simplistic pastebin alternative, heavily focussed on ease-of-use and mobile-friendliness.
 - **[Diamond Media Player](https://github.com/WillTDA/Diamond-Media-Player)** - An Electron-based media player for Windows with advanced audio visualisation and LUFS metering capabilities.
 - **[NPM Packages](https://www.npmjs.com/~willtda)** - There's quite a few, take a look!
+- **[EcoBot](https://dsc.gg/discord-ecobot)** - A Discord economy bot that allows you to create server shops using roles as items.
 
 ### GitHub Activity
 
@@ -44,14 +47,38 @@ Although that statement is completely up for your own judgement, here's some stu
 
 ![WillTDA](https://github-readme-stats.vercel.app/api?username=WillTDA&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff")
 
-### Where can I reach out to you?
+### Where to Reach Me
 
-I don't have many social outlets, but my main is Discord, especially on my server.
+I'm not super active on every platform, but here are the best places to connect with me:
 
-If you wanna see what I'm up to outside of my programming lifestyle, my Instagram also exists for that reason.
+* **Discord** – This is my main hangout. I'm most active here, especially in my server.
+  → [**Join my Discord**](https://diamonddigital.dev/discord)
 
-• **[Join my Discord](https://diamonddigital.dev/discord)**
+* **Instagram** – For a look at what I'm up to outside of programming and tech.
+  → [**Follow me on Instagram**](https://instagram.com/willtdaofficial)
 
-• **[Follow me on Instagram](https://instagram.com/willtdaofficial)**
-• **[Connect with me on LinkedIn](https://www.linkedin.com/in/will-michael-knowles)**
+* **LinkedIn** – If you're here for the professional side of things.
+  → [**Connect on LinkedIn**](https://www.linkedin.com/in/will-michael-knowles)
 
+* **Linktree** – For everything else, including projects, socials, and more.
+  → [**Check out my Linktree**](https://linktr.ee/willtda)
+  
+### My PC Specs
+
+| Component       | Model/Details                                             |
+| --------------- | --------------------------------------------------------- |
+| **CPU**         | AMD Ryzen 9 9950X 4.3 GHz 16-Core Processor               |
+| **GPU**         | NVIDIA Founders Edition GeForce RTX 5080 16 GB            |
+| **Motherboard** | Gigabyte B650 EAGLE AX ATX AM5                            |
+| **Memory**      | Crucial Pro Overclocking 32 GB (2 x 16 GB) DDR5-6000 CL36 |
+| **Storage #1**  | Kingston Fury Renegade 2 TB NVMe PCIe 4.0 SSD             |
+| **Storage #2**  | Western Digital Blue SN580 2 TB NVMe PCIe 4.0 SSD         |
+| **Storage #3**  | Western Digital Blue SN580 2 TB NVMe PCIe 4.0 SSD         |
+| **PSU**         | Corsair RM1000x (2024) 1000W Fully Modular ATX            |
+| **OS**          | Windows 11 Pro (64-bit)                                   |
+| **Case**        | Fractal Design North XL ATX Full Tower                    |
+| **Monitor #1**  | AOC C32G2ZE/BK 31.5" 1080p 240Hz Curved                   |
+| **Monitor #2**  | AOC C32G2ZE/BK 31.5" 1080p 240Hz Curved                   |
+| **Speakers**    | PreSonus Eris E3.5 BT 50W                                 |
+
+> 🔗 [View Full Build on PCPartPicker](https://uk.pcpartpicker.com/list/sBXKNz)

@@ -35,11 +35,11 @@ Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willk
 
 Although that statement is completely up for your own judgement, here's some stuff I've put a significant part of my life into:
 
-- **[DiamondLLM](https://chat.diamonddigital.dev/)** - A conversational AI chatbot fine-tuned from Meta's LLaMA 3 with quality close to that of GPT-4.
-- **[Codeshare](https://codeshare.diamonddigital.dev/)** - A beautifully simplistic pastebin alternative, heavily focussed on ease-of-use and mobile-friendliness.
-- **[Diamond Media Player](https://github.com/WillTDA/Diamond-Media-Player)** - An Electron-based media player for Windows with advanced audio visualisation and LUFS metering capabilities.
-- **[NPM Packages](https://www.npmjs.com/~willtda)** - There's quite a few, take a look!
-- **[EcoBot](https://dsc.gg/discord-ecobot)** - A Discord economy bot that allows you to create server shops using roles as items.
+- **[DiamondLLM](https://chat.diamonddigital.dev/)** – A conversational AI chatbot fine-tuned from Meta's LLaMA 3 with quality close to that of GPT-4.
+- **[Codeshare](https://codeshare.diamonddigital.dev/)** – A beautifully simplistic pastebin alternative, heavily focussed on ease-of-use and mobile-friendliness.
+- **[Diamond Media Player](https://github.com/WillTDA/Diamond-Media-Player)** – An Electron-based media player for Windows with advanced audio visualisation and LUFS metering capabilities.
+- **[NPM Packages](https://www.npmjs.com/~willtda)** – There's quite a few, take a look!
+- **[EcoBot](https://dsc.gg/discord-ecobot)** – A Discord economy bot that allows you to create server shops using roles as items.
 
 ### GitHub Activity
 

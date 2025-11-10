@@ -38,6 +38,7 @@ Although that statement is completely up for your own judgement, here's some stu
 - **[DiamondLLM](https://chat.diamonddigital.dev/)** – A conversational AI chatbot fine-tuned from Meta's LLaMA 3 with quality close to that of GPT-4.
 - **[Codeshare](https://codeshare.diamonddigital.dev/)** – A beautifully simplistic pastebin alternative, heavily focussed on ease-of-use and mobile-friendliness.
 - **[Diamond Media Player](https://github.com/WillTDA/Diamond-Media-Player)** – An Electron-based media player for Windows with advanced audio visualisation and LUFS metering capabilities.
+- **[Shadownloader](https://github.com/WillTDA/Shadownloader)** – A privacy-first, end-to-end encrypted file sharing system built for simplicity, security, and self-hosting.
 - **[NPM Packages](https://www.npmjs.com/~willtda)** – There's quite a few, take a look!
 - **[EcoBot](https://dsc.gg/discord-ecobot)** – A Discord economy bot that allows you to create server shops using roles as items.
 

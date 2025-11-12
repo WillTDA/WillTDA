@@ -1,7 +1,7 @@
 # Hi! I'm WillTDA. 👋
 Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willknowl.es/))
 
-• I am a 19 year-old EDM Producer and Full-stack Developer from the North East of the UK.
+• I am a 19 year-old EDM Producer and Full-stack Developer from the North East of England.
 
 • I cover quite a lot of electronic genres, mainly the bass-heavy stuff. Some people refer to it as rhythm game music if that helps.
 

@@ -1,7 +1,7 @@
 # Hi! I'm WillTDA. 👋
 Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willknowl.es/))
 
-• I am a 19 year-old EDM Producer and Full-stack Developer from the North East of England.
+• I am a 20 year-old EDM Producer and Full-stack Developer from the North East of England.
 
 • I cover quite a lot of electronic genres, mainly the bass-heavy stuff. Some people refer to it as rhythm game music if that helps.
 
@@ -41,12 +41,6 @@ Although that statement is completely up for your own judgement, here's some stu
 - **[Shadownloader](https://github.com/WillTDA/Shadownloader)** – A privacy-first, end-to-end encrypted file sharing system built for simplicity, security, and self-hosting.
 - **[NPM Packages](https://www.npmjs.com/~willtda)** – There's quite a few, take a look!
 - **[EcoBot](https://dsc.gg/discord-ecobot)** – A Discord economy bot that allows you to create server shops using roles as items.
-
-### GitHub Activity
-
-**Disclaimer:** Some of my projects are closed source, so this data may be inaccurate from time to time.
-
-![WillTDA](https://github-readme-stats.vercel.app/api?username=WillTDA&show_icons=true&locale=en&theme=dark&hide_border=true&cache_seconds=1800&icon_color=00ffff&text_color=61dafb&title_color=00ffff")
 
 ### Where to Reach Me
 

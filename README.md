@@ -7,7 +7,7 @@ Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willk
 
 • I also **play the piano** and **produce EDM using Ableton Live 12** in my spare time. ([Spotify](https://open.spotify.com/playlist/7Amsod9O69ZLCNzVnHprad))
 
-• I run **[Diamond Digital Development](https://diamonddigital.dev/)**, my own open-source software foundation.
+• I run my own open-source software collective, **[Diamond Digital Development](https://diamonddigital.dev/)**.
 
 • I am a former college student, with a **Level 3 Extended National Diploma in Information Technology** from **Newcastle College**, having studied:
   - **Cyber Security**

@@ -36,10 +36,11 @@ Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willk
 Although that statement is completely up for your own judgement, here's some stuff I've put a significant part of my life into:
 
 - **[Diamond Media Player](https://github.com/WillTDA/Diamond-Media-Player)** – An Electron-based media player for Windows with advanced audio visualisation and LUFS metering capabilities.
-- **[Dropgate](https://github.com/WillTDA/Dropgate)** – A self-hostable, privacy-first file sharing system with both hosted upload and direct P2P transfer capabilities.
+- **[Dropgate](https://github.com/WillTDA/Dropgate)** – A self-hosted, privacy-first file sharing system with both hosted upload and direct P2P transfer capabilities.
+- **[Craftbox](https://github.com/WillTDA/Craftbox)** – A modern self-hosted platform for managing Minecraft servers with built-in mod support.
 - **[Codeshare](https://codeshare.diamonddigital.dev/)** – A beautifully simplistic pastebin alternative, heavily focussed on ease-of-use and mobile-friendliness.
-- **[NPM Packages](https://www.npmjs.com/~willtda)** – There's quite a few, take a look!
 - **[EcoBot](https://dsc.gg/discord-ecobot)** – A Discord economy bot that allows you to create server shops using roles as items.
+- **[NPM Packages](https://www.npmjs.com/~willtda)** – There's quite a few, take a look!
 
 ### Where to Reach Me
 

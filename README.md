@@ -47,11 +47,8 @@ Although that statement is completely up for your own judgement, here's some stu
 I'm not super active on every platform, but here are the best places to connect with me:
 
 - **[Discord](https://diamonddigital.dev/discord)** – This is my main hangout. I'm most active here, especially in my server.
-
 - **[Instagram](https://instagram.com/willtdaofficial)** – For a look at what I'm up to outside of programming and tech.
-
 - **[LinkedIn](https://www.linkedin.com/in/will-michael-knowles)** – If you're here for the professional side of things.
-
 - **[Linktree](https://linktr.ee/willtda)** – For everything else, including projects, socials, and more.
   
 ### My PC Specs

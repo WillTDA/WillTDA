@@ -23,7 +23,7 @@ Hello there! My real name is Will Knowles. *(He/Him)* ([Portfolio](https://willk
 [![Frontend Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,electron)](https://skillicons.dev)
 
 #### Backend Development
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow,cloudflare,discordjs)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,docker,cloudflare,discordjs)](https://skillicons.dev)
 
 #### Software
 [![Software Skills](https://skillicons.dev/icons?i=vscode,github,npm,ps,ai,blender,ableton)](https://skillicons.dev)
